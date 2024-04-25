@@ -7,5 +7,7 @@ https://www.youtube.com/watch?v=wjZofJX0v4M&ab_channel=3Blue1Brown
 https://en.wikipedia.org/wiki/Transformer_(deep_learning_architecture)
 https://www.youtube.com/watch?v=4Bdc55j80l8&ab_channel=TheAIHacker
 
+## Results and outputs:
+
 ## Dataset
 https://docs.google.com/spreadsheets/d/1ierEhD6gcq51HAm433knjnVwey4ZE5DCnu1bW7PRG3E/edit#gid=1400401584
